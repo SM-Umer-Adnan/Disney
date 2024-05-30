@@ -1,0 +1,8 @@
+THING NEEDED TO INSTALL :
+
+npm i styled-components
+npm i react-router-dom 
+npm add firebase
+npm i firebase-tools
+npm i react-redux
+npm i @reduxjs/toolkit
